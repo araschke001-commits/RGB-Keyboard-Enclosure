@@ -23,7 +23,7 @@
 7. [2026-10-18: Work session](#2026-10-18-work-session)
 8. [2026-10-29: Work session](#2026-10-29-work-session)
 9. [2026-10-29: I was adding tolerances in this session because I forgot about them before now. I added an extra part onto the case so I would have more room to put the extenders and then did some tolerances for the](#2026-10-29-i-was-adding-tolerances-in-this-session-because-i)
-10. [2026-11-01: Work session](#2026-11-01-work-session)
+10. [2026-11-01: In this session, I imported the stabilizers and researched how the holes for them were going to work. It was quite difficult to find the right stabilizers for the part, and then it took a while to do](#2026-11-01-in-this-session-i-imported-the-stabilizers-and-re)
 
 ## Design
 
@@ -85,8 +85,10 @@ I was adding tolerances in this session because I forgot about them before now. 
 
 [Timelapse](https://lookout.hackclub.com/api/media/af78e0cc-57c0-4113-ad17-7390dcca793e/video.mp4)
 
-### 2026-11-01: Work session
+### 2026-11-01: In this session, I imported the stabilizers and researched how the holes for them were going to work. It was quite difficult to find the right stabilizers for the part, and then it took a while to do
 
 **1.13h**
+
+In this session, I imported the stabilizers and researched how the holes for them were going to work. It was quite difficult to find the right stabilizers for the part, and then it took a while to do some research on the stabilizer holes.
 
 [Timelapse](https://lookout.hackclub.com/api/media/d4ee6b3a-984a-4d72-8f55-5df905ea02ab/video.mp4)
