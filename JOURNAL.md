@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv5sy7d80koi01n0opyn2kkr)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> An enclosure for the RGB Keyboard I designed in Week 1 of Hack Club Half Life.
+> This is an enclosure for the RGB Keyboard I designed in Week 1 of Hack Club Half Life. It has the border to hold in the PCB, the plate to hold the switches, and the top cover for aesthetics. I also made extenders to lift up the keyboard at an angle.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
