@@ -34,3 +34,6 @@ This should be everything you need to finish the [RGB Keyboard from Week 1 of Ha
 - 1x (137 pack) [SDYZ-XVX Doubleshot Keycap Pack](https://www.amazon.com/SDYZ-XVX-Doubleshot-Keycaps-Percent/dp/B0DNMWDQTN/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wEGn3F6DQyShvv1GbMZGUBH1lIN2bFlUHpFxwaWaFpq0mnuOJtZc8G5Lexwsv_0OVp43FlyAa86ZMykslQtyk9oZ9TyqxBdJWntOzoRqnW3PT1hrkPl5CkPLp1_NbCSO19ULdayd-egwZcpjWcnliaM-0YCCg0WEqInxb4pfznu5EOmSeCoRhB0OtIMBCU2LHkHCNSYuDroEEmHJXgs9nQIy8IF3mWqQj-S6jGVub2U.uS07PeLr1MQ14RYiQQYHr81bFCWXaT0e6y0OXhlseS8&dib_tag=se&keywords=shinethrough%2Bpbt%2Bkeycaps&qid=1791828404&sr=8-10&th=1)
 - 1x (Pack of 7 2u, 1 6.25u) [GMK Cherry Plate Mount Stabilizers](https://upgradekeyboards.com/products/genuine-gmk-cherry-plate-mount-stabilizer-set-full-size)
 - 1x (Pack of 12) [Rubber Pads](https://www.walmart.com/ip/12-Pcs-Bottom-Shell-Rubber-Cushion-Laptop-Computer-Feet-Pad-Desktop-Keyboard-Pads/5574140505)
+
+## Reviewer Note
+I set the price to $0 for the 3d printed part because I don't know if it actually costs anything or not from my grant card since I think they changed it a few times. If it does cost something, please add enough money to my grant card to cover it (like $10 or something).
