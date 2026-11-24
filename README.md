@@ -36,4 +36,6 @@ This should be everything you need to finish the [RGB Keyboard from Week 1 of Ha
 - 1x (Pack of 12) [Rubber Pads](https://www.walmart.com/ip/12-Pcs-Bottom-Shell-Rubber-Cushion-Laptop-Computer-Feet-Pad-Desktop-Keyboard-Pads/5574140505)
 
 ## Reviewer Note
-I set the price to $0 for the 3d printed part because I don't know if it actually costs anything or not from my grant card since I think they changed it a few times. If it does cost something, please add enough money to my grant card to cover it (like $10 or something).
+For the 3d printed parts, I am having the person printing them split it using their slicer so it fits in the bed, and their slicer makes connectors for it automatically. Since the plate is too thin for it, I am gluing it together. I set the price for it based off of the upper end of their quote.
+
+I set the shipping to what should be a safe value. The only shipping is for the Amazon part and it's not letting me see the shipping cost, AliExpress has free shipping for these items and the Printing Legion quote has the shipping included.
